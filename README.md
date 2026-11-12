@@ -26,11 +26,12 @@ My focus bridges traditional network security (Cisco TAC, Cisco ISE, firewalls, 
 ---
 
 ### 🚀 Featured Work
-* 🌐 **[Personal Portfolio Website](https://github.io):** Responsive web portfolio highlighting my projects in Cisco ISE, secure network architecture, and web development.
+* 🌐 **[Personal Portfolio Website](https://cesarck-bit.github.io/portafolio/):** Responsive web portfolio highlighting my projects in Cisco ISE, secure network architecture, and web development.
 * 🎹 **Interactive Rhythm Piano (In Progress):** A browser-based musical game combining Web Audio and CSS animations for my Web Development coursework.
 
 ---
 
 ### 📫 Connect with Me
-* **Portfolio:** [cesarck-bit.github.io/portafolio](https://github.io)
-* **GitHub:** [@cesarck-bit](https://github.com)
+* **Portfolio:** [cesarck-bit.github.io/portafolio](https://cesarck-bit.github.io/portafolio/)
+* **GitHub:** [@cesarck-bit](https://github.com/cesarck-bit)
+
